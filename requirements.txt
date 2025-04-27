@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+spacy
+spacy-language-detection
+nltk
+dash
+plotly
+joblib
+python-dotenv
+requests
