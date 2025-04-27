@@ -1,0 +1,1 @@
+# Sistema-de-Apoio-de-Sentimentos-para-atendimento
